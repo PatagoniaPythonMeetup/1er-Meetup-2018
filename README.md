@@ -5,6 +5,7 @@ Charlas
 - Una serpiente se comió un microcontrolador: Microbit - Nahuel Defossé (UNPSJB).
 - Deployando a PIP: que hay que saber para publicar python - Luciano Serruya (alumno UNPSJB).
 - Twitter bots from zero to hero... ku - Creación de bots para twitter y despliegue en heroku - Pablo Toledo (alumno UNPSJB).
+- [Introducción a BBC Micro:bit con MicroPython](MicroPython_MicroBit/PlacaMicroBit.ipynb) - Nahuel Defossé (UNPSJB)
 
 Lenguaje Invitado: C
 
