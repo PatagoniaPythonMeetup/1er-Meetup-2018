@@ -1,4 +1,3 @@
-# Introducción a Micro:bit
+# Introducción a Micro:bit con MicroPython
 
-## Primer Meetup Patagónico de Python 2018
-
+[Presentación Jupyter](./PlacaMicroBit.ipynb)

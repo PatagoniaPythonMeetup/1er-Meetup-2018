@@ -10,4 +10,3 @@ Charlas
 Lenguaje Invitado: C
 
 - Robótica: Control PID aplicado a un Seguidor de Linea - Andrés Cintas (E.S.E.T.P.N* 702).
- 
