@@ -1,0 +1,16 @@
+Para usar el virtualenv dentro del notebook
+
+https://help.pythonanywhere.com/pages/IPythonNotebookVirtualenvs/
+
+...
+
+Install the ipython kernel module into your virtualenv
+
+$ workon my-virtualenv-name
+$ pip install ipykernel
+
+Now run the kernel "self-install" script:
+
+$ python -m ipykernel install --user --name=my-virtualenv-name
+
+Run Jupyter and select the new kernel
